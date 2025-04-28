@@ -103,8 +103,6 @@ h2 {
 
 #galeria {
     background-color: #FAF4F4;
-    height: 1000px;
-width: 1000px;
 }
 
 .fundo-galeria {
@@ -140,4 +138,9 @@ width: 1000px;
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
     background-color: #F1EDEF;
+}
+
+.col-md-4{
+    height: 330px;
+    width: 400px;
 }
